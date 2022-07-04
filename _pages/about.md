@@ -42,14 +42,13 @@ Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
 </div>
 </div>
 
-- [Toward more effective centrality-based attacks on network topologies](https://ieeexplore.ieee.org/abstract/document/9148785), **Songwei Zhang**, Weisheng Si, Tie Qiu, Qing Cao **ICC 2020 (CCF C)**
+- [Toward more effective centrality-based attacks on network topologies](https://ieeexplore.ieee.org/abstract/document/9148785), **Songwei Zhang**, Weisheng Si, Tie Qiu, Qing Cao, **ICC 2020 (CCF C)**
 - [Robustness Optimization for IoT Topology](https://link.springer.com/book/10.1007/978-981-16-9609-1?noAccess=true), Tie Qiu, Ning Chen, **Songwei Zhang**, Springer Book
-- [An evolutional networking model for three-dimensional topology in internet of things](https://ieeexplore.ieee.org/abstract/document/8913966), **Songwei Zhang**, Tie Qiu, Min Han, Azizur Rahim, Wenbing Zhao **SMC 2019 (CCF C)**
-- [A three dimensions deployment model for Internet of Things](https://ieeexplore.ieee.org/abstract/document/8465385), Jie Liu, Tie Qiu, **Songwei Zhang**, Wenyu Qu, Qianzhen Sun **CSCWD 2018 (CCF C)**
-- [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF A)**
-- [A Neuroevolution-Inspired Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/9776271), Lidi Zhang, **Songwei Zhang**, Ning Chen, Wenyuan Liu, Xiaobo Zhou, Tie Qiu **CSCWD 2022 (CCF C)**
-- [Battery Management System Design for Industrial Manufacture](https://ieeexplore.ieee.org/abstract/document/8465385), Haodong Wang, **Songwei Zhang**, Tie Qiu, Hongrui Liu, Ling He, Zimu Wang **CSCWD 2022 (CCF C)**
-- [Robustness Optimization for IoT Topology](), Tie Qiu, Ning Chen, Songwei Zhang
+- [An evolutional networking model for three-dimensional topology in internet of things](https://ieeexplore.ieee.org/abstract/document/8913966), **Songwei Zhang**, Tie Qiu, Min Han, Azizur Rahim, Wenbing Zhao, **SMC 2019 (CCF C)**
+- [A three dimensions deployment model for Internet of Things](https://ieeexplore.ieee.org/abstract/document/8465385), Jie Liu, Tie Qiu, **Songwei Zhang**, Wenyu Qu, Qianzhen Sun, **CSCWD 2018 (CCF C)**
+- [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF A)**
+- [A Neuroevolution-Inspired Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/9776271), Lidi Zhang, **Songwei Zhang**, Ning Chen, Wenyuan Liu, Xiaobo Zhou, Tie Qiu, **CSCWD 2022 (CCF C)**
+- [Battery Management System Design for Industrial Manufacture](https://ieeexplore.ieee.org/abstract/document/8465385), Haodong Wang, **Songwei Zhang**, Tie Qiu, Hongrui Liu, Ling He, Zimu Wang, **CSCWD 2022 (CCF C)**
 
 # 💻 Projects
 - *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (No. U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, 2,600,000 RMB.
