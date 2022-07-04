@@ -30,7 +30,7 @@ Songwei Zhang (S’21) received the B.E. and M.E. degrees in software engineerin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2020</div><img src='images/IoTJ2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903)
