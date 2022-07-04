@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songwei Zhang (S’21) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in computer science with the School of Computer Science and Technology, Tianjin University, China. He has published several papers on journals and international conferences, such as IEEE Internet of Things Journal, IEEE ICC, SMC, and CSCWD. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interest includes Smart Cities, Internet of Things, and Topology Robustness. He is a Student Member of IEEE and ACM.
+Songwei Zhang (S’21) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in computer science with the School of Computer Science and Technology, Tianjin University, China. He has published several papers on journals and international conferences, such as IEEE Internet of Things Journal, IEEE ICC, SMC, and CSCWD. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interest includes Smart Cities, Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
 
 # 📖 Educations
 - *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China. 
@@ -56,7 +56,7 @@ Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
 - *2017.01 - 2020.12*, National Natural Science Foundation of China (No. 61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, 630,000 RMB.
 
 # 💬 Patents
-- A topology optimization method for Internet of Things with layered-cooperation mechanism, **pending**
+- A topology optimization method for Internet of Things with layered-cooperation mechanism, **Pending**
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
