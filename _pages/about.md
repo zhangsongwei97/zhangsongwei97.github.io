@@ -38,7 +38,7 @@ Songwei Zhang (S’21) received the B.E. and M.E. degrees in software engineerin
 Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eQM4KI8AAAAJ&citation_for_view=eQM4KI8AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='eQM4KI8AAAAJ:u5HHmVD_uO8C'></span></strong>
-- 3D-TES. 
+- 3D-TES is a 3D topology evolution scheme with self-adaption for mining areas to reduce energy consumption. Blocked by the undulating peaks on the mine, the strength of the node signal is quantified by the slope and aspect. 3D-TES is then applied to determine the optimal number of sink nodes and find the best data transmission path between sensor nodes and multiple sink nodes. 
 </div>
 </div>
 
@@ -56,7 +56,7 @@ Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
 - *2017.01 - 2020.12*, National Natural Science Foundation of China (No. 61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, 630,000 RMB.
 
 # 💬 Patents
-- Empty 
+- A topology optimization method for Internet of Things with layered-cooperation mechanism, **pending**
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
