@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Songwei Zhang"
-description              : "Academic page of Songwei Zhang."
+title                    : "Songwei Zhang (张松伟)"
+description              : "A PhD student in Tianjin University. Focusing on IoT, Topology Robustness, and Quantum Computing."
 repository               : "zhangsongwei97/zhangsongwei97.github.io"
 google_scholar_stats_use_cdn : true
 
