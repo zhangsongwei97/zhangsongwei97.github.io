@@ -51,15 +51,15 @@ Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
 - [Battery Management System Design for Industrial Manufacture](https://ieeexplore.ieee.org/abstract/document/9776233), Haodong Wang, **Songwei Zhang**, Tie Qiu, Hongrui Liu, Ling He, Zimu Wang, **CSCWD 2022 (CCF-C)**
 
 # 💻 Projects
-- *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (No. U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, 2,600,000 RMB.
-- *2021.12 - 2023.12*, Tianjin Research Innovation Project for Postgraduate Students (No. 2021YJSB108): Research on Topology Control Optimization Algorithm for Intelligent Networking of Industrial Equipment, 50,000 RMB.
-- *2017.01 - 2020.12*, National Natural Science Foundation of China (No. 61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, 630,000 RMB.
+- *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (No. U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, 2,600,000 CNY.
+- *2021.12 - 2023.12*, Tianjin Research Innovation Project for Postgraduate Students (No. 2021YJSB108): Research on Topology Control Optimization Algorithm for Intelligent Networking of Industrial Equipment, 50,000 CNY.
+- *2017.01 - 2020.12*, National Natural Science Foundation of China (No. 61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, 630,000 CNY.
 
 # 💬 Patents
 - A topology optimization method for Internet of Things with layered-cooperation mechanism, **Pending**
 
 # 🎖 Honors and Awards
-- *2021.06* Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
-- *2020.10* National Scholarship for Postgraduate students.  
-- *2020.09* Outstanding postgraduate of Dalian University of Technology. 
+- *2021.06*, Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
+- *2020.10*, National Scholarship for Postgraduate students.  
+- *2020.09*, Outstanding postgraduate of Dalian University of Technology. 
 
