@@ -24,10 +24,6 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2018.09 - 2021.06*, Master, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 - *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 
-# 🔥 News
-- *2022.07*: &nbsp;🎉🎉 Empty. 
-- *2022.06*: &nbsp;🎉🎉 Empty. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2020</div><img src='images/IoTJ2020.png' alt="sym" width="100%"></div></div>
