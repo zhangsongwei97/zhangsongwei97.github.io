@@ -31,7 +31,7 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 
 [A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903)
 
-Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
+Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman, **IoTJ 2020 (SCI-I)**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eQM4KI8AAAAJ&citation_for_view=eQM4KI8AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='eQM4KI8AAAAJ:u5HHmVD_uO8C'></span></strong>
 - 3D-TES is a 3D topology evolution scheme with self-adaption for mining areas to reduce energy consumption. Blocked by the undulating peaks on the mine, the strength of the node signal is quantified by the slope and aspect. 3D-TES is applied to determine the optimal number of sink nodes and find the best data transmission path between sensor nodes and multiple sink nodes. 
@@ -45,18 +45,24 @@ Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman
 - [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF-A)**
 - [A Neuroevolution-Inspired Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/9776271), Lidi Zhang, **Songwei Zhang**, Ning Chen, Wenyuan Liu, Xiaobo Zhou, Tie Qiu, **CSCWD 2022 (CCF-C)**
 - [Battery Management System Design for Industrial Manufacture](https://ieeexplore.ieee.org/abstract/document/9776233), Haodong Wang, **Songwei Zhang**, Tie Qiu, Hongrui Liu, Ling He, Zimu Wang, **CSCWD 2022 (CCF-C)**
+- [Multi-parameters Dynamic Scheduling with Energy Management for Electric Vehicle Charging Stations](https://ieeexplore.ieee.org/abstract/document/9776233), Haodong Wang, Ning Chen, Chao Xu, **Songwei Zhang**, Tie Qiu, **IET Collaborative Intelligent Manufacturing 2022 (SCI-II), Accepted**
+- [Dynamic Mode-switching-based Worker Selection for Mobile Crowd Sensing], Wei Wang, Ning Chen, **Songwei Zhang**, Keqiu Li, Tie Qiu, **WASA 2022 (CCF-C), Accepted**
 
 # 💻 Projects
 - *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (No. U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, 2,600,000 CNY.
+- *2020.01 - 2022.12*, National Key R&D Program (2019YFB1703600): Network Collaborative Manufacturing and Intelligent Factory - Research on Big Data Theory and Methods for Nondeterministic Manufacturing of Flexible systems, 4,520,000 CNY.
 - *2021.12 - 2023.12*, Tianjin Research Innovation Project for Postgraduate Students (No. 2021YJSB108): Research on Topology Control Optimization Algorithm for Intelligent Networking of Industrial Equipment, 50,000 CNY.
 - *2017.01 - 2020.12*, National Natural Science Foundation of China (No. 61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, 630,000 CNY.
 
 # 💬 Patents
 - A topology optimization method for Internet of Things with layered-cooperation mechanism, **Pending**
 - A robust networking method for scale-free Internet of Things based on quantum multiverse co-evolution, **Pending**
+- Robustness optimization model for Internet of Things based on broad learning, **Pending**
+- A robust topology generation method for the Internet of Things based on neuroevolution, **Pending**
 
 # 🎖 Honors and Awards
 - *2021.06*, Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
 - *2020.10*, National Scholarship for Postgraduate students.  
 - *2020.09*, Outstanding postgraduate of Dalian University of Technology. 
+- *2017.08*, Special prize of Bochuang Cup Science and Technology Competition.
 
