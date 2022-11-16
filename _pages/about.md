@@ -25,19 +25,7 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2020</div><img src='images/IoTJ2020.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903)
-
-Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman, **IoTJ 2020 (SCI-I)**
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eQM4KI8AAAAJ&citation_for_view=eQM4KI8AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='eQM4KI8AAAAJ:u5HHmVD_uO8C'></span></strong>
-- 3D-TES is a 3D topology evolution scheme with self-adaption for mining areas to reduce energy consumption. Blocked by the undulating peaks on the mine, the strength of the node signal is quantified by the slope and aspect. 3D-TES is applied to determine the optimal number of sink nodes and find the best data transmission path between sensor nodes and multiple sink nodes. 
-</div>
-</div>
-
+- [A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903), Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman, **IoTJ 2020 (SCI-I)**
 - [Toward more effective centrality-based attacks on network topologies](https://ieeexplore.ieee.org/abstract/document/9148785), **Songwei Zhang**, Weisheng Si, Tie Qiu, Qing Cao, **ICC 2020 (CCF-C)**
 - [Robustness Optimization for IoT Topology](https://link.springer.com/book/10.1007/978-981-16-9609-1?noAccess=true), Tie Qiu, Ning Chen, **Songwei Zhang**, Springer Book, 2022
 - [An evolutional networking model for three-dimensional topology in internet of things](https://ieeexplore.ieee.org/abstract/document/8913966), **Songwei Zhang**, Tie Qiu, Min Han, Azizur Rahim, Wenbing Zhao, **SMC 2019 (CCF-C)**
