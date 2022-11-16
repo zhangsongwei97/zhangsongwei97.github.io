@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in computer science with the School of Computer Science and Technology, Tianjin University, China. He has published several papers on journals and international conferences, such as IEEE Internet of Things Journal, IEEE ICC, SMC, and CSCWD. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interest includes Smart Cities, Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
+Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in computer science with the School of Computer Science and Technology, Tianjin University, China. He has published several papers on journals and international conferences, such as IEEE/ACM Transactions on Networking, IEEE Internet of Things Journal, IEEE ICC, SMC, CSCWD, and WASA. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interest includes Smart Cities, Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
 
 # 📖 Educations
 - *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China. 
