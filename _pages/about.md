@@ -33,8 +33,8 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF-A)**
 - [A Neuroevolution-Inspired Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/9776271), Lidi Zhang, **Songwei Zhang**, Ning Chen, Wenyuan Liu, Xiaobo Zhou, Tie Qiu, **CSCWD 2022 (CCF-C)**
 - [Battery Management System Design for Industrial Manufacture](https://ieeexplore.ieee.org/abstract/document/9776233), Haodong Wang, **Songwei Zhang**, Tie Qiu, Hongrui Liu, Ling He, Zimu Wang, **CSCWD 2022 (CCF-C)**
-- Multi-parameters Dynamic Scheduling with Energy Management for Electric Vehicle Charging Stations, Haodong Wang, Ning Chen, Chao Xu, **Songwei Zhang**, Tie Qiu, **IET Collaborative Intelligent Manufacturing 2022 (SCI-II), Accepted**
-- Dynamic Mode-switching-based Worker Selection for Mobile Crowd Sensing, Wei Wang, Ning Chen, **Songwei Zhang**, Keqiu Li, Tie Qiu, **WASA 2022 (CCF-C), Accepted**
+- [Multi-parameters Dynamic Scheduling with Energy Management for Electric Vehicle Charging Stations](https://doi.org/10.1049/cim2.12068), Haodong Wang, Ning Chen, Chao Xu, **Songwei Zhang**, Tie Qiu, **IET Collaborative Intelligent Manufacturing 2022 (SCI-II)**
+- [Dynamic Mode-switching-based Worker Selection for Mobile Crowd Sensing](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_13), Wei Wang, Ning Chen, **Songwei Zhang**, Keqiu Li, Tie Qiu, **WASA 2022 (CCF-C)**
 
 # 💻 Projects
 - *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, 2,600,000 CNY, Participant.
