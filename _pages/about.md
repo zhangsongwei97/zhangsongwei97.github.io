@@ -25,7 +25,7 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 
 # 📝 Publications 
--[TEAM: A Layered-Cooperation Topology Evolution Algorithm for Multi-Sink Internet of Things](https://ieeexplore.ieee.org/abstract/document/10143244), **Songwei Zhang**, Tie Qiu, Weisheng Si, Quan Z. Sheng, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2023 (CCF-A, SCI-I)**
+- [TEAM: A Layered-Cooperation Topology Evolution Algorithm for Multi-Sink Internet of Things](https://ieeexplore.ieee.org/abstract/document/10143244), **Songwei Zhang**, Tie Qiu, Weisheng Si, Quan Z. Sheng, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2023 (CCF-A, SCI-I)**
 - [A Robust Networking Model with Quantum Evolution for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10138333), **Songwei Zhang**, Tie Qiu, Ning Chen, Huansheng Ning, Min Han, Xingcheng Liu, **IEEE Network 2023 (SCI-I)**
 - [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF-A, SCI-I)**
 - [A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903), Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman, **IoTJ 2020 (SCI-I)**
