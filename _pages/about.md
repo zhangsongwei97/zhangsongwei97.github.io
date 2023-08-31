@@ -39,10 +39,10 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - [Dynamic Mode-switching-based Worker Selection for Mobile Crowd Sensing](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_13), Wei Wang, Ning Chen, **Songwei Zhang**, Keqiu Li, Tie Qiu, **WASA 2022 (CCF-C)**
 
 # 💻 Projects
-- *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, 2,600,000 CNY, Participant.
-- *2020.01 - 2022.12*, National Key Research and Development Program (2019YFB1703600): Network Collaborative Manufacturing and Intelligent Factory - Research on Big Data Theory and Methods for Nondeterministic Manufacturing of Flexible systems, 4,520,000 CNY, Participant.
-- *2021.12 - 2023.12*, Tianjin Research Innovation Project for Postgraduate Students (2021YJSB108): Research on Topology Control Optimization Algorithm for Intelligent Networking of Industrial Equipment, 50,000 CNY, Participant.
-- *2017.01 - 2020.12*, National Natural Science Foundation of China (61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, 630,000 CNY, Participant.
+- *2021.01 - 2024.12*, Joint Funds of the National Natural Science Foundation of China (U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, Participant.
+- *2020.01 - 2022.12*, National Key Research and Development Program (2019YFB1703600): Network Collaborative Manufacturing and Intelligent Factory - Research on Big Data Theory and Methods for Nondeterministic Manufacturing of Flexible systems, Participant.
+- *2021.12 - 2023.12*, Tianjin Research Innovation Project for Postgraduate Students (2021YJSB108): Research on Topology Control Optimization Algorithm for Intelligent Networking of Industrial Equipment, Participant.
+- *2017.01 - 2020.12*, National Natural Science Foundation of China (61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, Participant.
 
 # 💬 Patents
 - A topology optimization method for Internet of Things with layered-cooperation mechanism, **Pending**
