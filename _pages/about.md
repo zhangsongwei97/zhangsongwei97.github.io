@@ -64,3 +64,13 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2020*, Outstanding postgraduate of Dalian University of Technology. 
 - *2017*, Special prize of Bochuang Cup Science and Technology Competition.
 
+# Academic Activities
+Reviewer of International Premier Journals and Conferences:
+- IEEE Transactions on Mobile Computing
+- IEEE Internet of Things Journal
+- IEEE Transactions on Network Science and Engineering
+- IEEE Wireless Communications
+- IEEE International Conference on Communications (ICC)
+- IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+- IEEE International Conference on Smart Internet of Things (SmartIoT)
+- IEEE International Conference on Parallel and Distributed Systems (ICPADS)
