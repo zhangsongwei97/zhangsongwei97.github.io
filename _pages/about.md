@@ -17,16 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in Computer Science and Technology with the College of Intelligence and Computing, Tianjin University (TJU), China. He has published several papers on top journals and international conferences, such as IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Mobile Computing (TMC), IEEE Internet of Things Journal (IoTJ), IEEE Network, IEEE ICC, SMC, CSCWD, and WASA. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interests include Smart Cities, Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
+Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in Computer Science and Technology with the College of Intelligence and Computing, Tianjin University (TJU), China. He has co-authored 1 Springer Book, and published over 10 scientific papers in international journals and conference proceedings, such as IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Mobile Computing (TMC), IEEE Internet of Things Journal (IoTJ), IEEE Network, IEEE Wireless Communications, IEEE ICC, SMC, CSCWD, and WASA. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interests include Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China. 
+- *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China.
+- *2023.11 - 2024.11*, Ph.D candidate, National Institute of Informatics, Tokyo, Japan.
 - *2018.09 - 2021.06*, Master, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 - *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 
 # 📝 Publications 
 - [TEAM: A Layered-Cooperation Topology Evolution Algorithm for Multi-Sink Internet of Things](https://ieeexplore.ieee.org/abstract/document/10143244), **Songwei Zhang**, Tie Qiu, Weisheng Si, Quan Z. Sheng, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2023 (CCF-A, SCI-I)**
+- [A Quantum-Behaved Heterogeneous Topology Optimization Model For Optical Wireless Communication Networks](https://ieeexplore.ieee.org/abstract/document/10325449), **Songwei Zhang**, Fu Xiao, Lejun Zhang, Fengbiao Zan, Tie Qiu, **IEEE Wireless Communications 2023 (SCI-I)**
 - [A Robust Networking Model with Quantum Evolution for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10138333), **Songwei Zhang**, Tie Qiu, Ning Chen, Huansheng Ning, Min Han, Xingcheng Liu, **IEEE Network 2023 (SCI-I)**
+- [A Self-Adaptive Robustness Optimization Method With Evolutionary Multi-Agent for IoT Topology](https://ieeexplore.ieee.org/abstract/document/10285720), Tie Qiu, Xinwei Yang, Ning Chen, **Songwei Zhang**, Geyong Min, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2023 (CCF-A, SCI-I)**
+- [An Evolutionary Reinforcement Learning Scheme for IoT Robustness](https://ieeexplore.ieee.org/abstract/document/10152704), Xinwei Yang, Ning Chen, **Songwei Zhang**, Xiaobo Zhou, Lejun Zhang, Tie Qiu, **CSCWD 2023 (CCF-C)**
 - [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF-A, SCI-I)**
 - [A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903), Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman, **IoTJ 2020 (SCI-I)**
 - [Toward more effective centrality-based attacks on network topologies](https://ieeexplore.ieee.org/abstract/document/9148785), **Songwei Zhang**, Weisheng Si, Tie Qiu, Qing Cao, **ICC 2020 (CCF-C)**
@@ -51,8 +55,11 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - A robust topology generation method for the Internet of Things based on neuroevolution, **Pending**
 
 # 🎖 Honors and Awards
-- *2021.06*, Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
-- *2020.10*, National Scholarship for Postgraduate students.  
-- *2020.09*, Outstanding postgraduate of Dalian University of Technology. 
-- *2017.08*, Special prize of Bochuang Cup Science and Technology Competition.
+- *2023*, Outstanding Contribution Award received from 2023 IEEE ComSoc School Series Tianjin Event.
+- *2023*, The First Prize Scholarship in Tianjin University.
+- *2023*, Excellent Student at Tianjin University.
+- *2021*, Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
+- *2020*, National Scholarship for Postgraduate students.  
+- *2020*, Outstanding postgraduate of Dalian University of Technology. 
+- *2017*, Special prize of Bochuang Cup Science and Technology Competition.
 
