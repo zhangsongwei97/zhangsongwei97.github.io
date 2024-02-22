@@ -49,6 +49,7 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2017.01 - 2020.12*, National Natural Science Foundation of China (61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, Participant.
 
 # 💬 Patents
+- A Multi-objective Topology Optimization method with Quantum Behavior for Heterogeneous IoT, **Pending**
 - A topology optimization method for Internet of Things with layered-cooperation mechanism, **Pending**
 - A robust networking method for scale-free Internet of Things based on quantum multiverse co-evolution, **Pending**
 - Robustness optimization model for Internet of Things based on broad learning, **Pending**
