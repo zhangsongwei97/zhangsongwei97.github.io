@@ -57,6 +57,7 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 
 # 🎖 Honors and Awards
 - *2023*, Outstanding Contribution Award received from 2023 IEEE ComSoc School Series Tianjin Event.
+- *2023*, China Scholarship Council (CSC) study abroad scholarship.
 - *2023*, The First Prize Scholarship in Tianjin University.
 - *2023*, Excellent Student at Tianjin University.
 - *2021*, Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
