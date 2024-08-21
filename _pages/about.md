@@ -26,7 +26,7 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
 
 # 📝 Publications 
-- [Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT], **Songwei Zhang**, Xiaobo Zhou, Tie Qiu, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2024 (CCF-A, SCI-I)**
+- Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT, **Songwei Zhang**, Xiaobo Zhou, Tie Qiu, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2024 (CCF-A, SCI-I)**
 - [A Distributed Co-Evolutionary Optimization Method With Motif for Large-Scale IoT Robustness](https://ieeexplore.ieee.org/abstract/document/10557791), Ning Chen, Tie Qiu, Xiaobo Zhou, **Songwei Zhang**, Weisheng Si, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2024 (CCF-A, SCI-I)**
 - [A Probability-Based Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/10580081), Jingchen Sun, Ning Chen, **Songwei Zhang**, Zhaolong Ning, Tie Qiu, **CSCWD 2024 (CCF-C)**
 - [TEAM: A Layered-Cooperation Topology Evolution Algorithm for Multi-Sink Internet of Things](https://ieeexplore.ieee.org/abstract/document/10143244), **Songwei Zhang**, Tie Qiu, Weisheng Si, Quan Z. Sheng, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2023 (CCF-A, SCI-I)**
