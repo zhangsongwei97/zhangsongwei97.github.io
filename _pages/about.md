@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in Computer Science and Technology with the College of Intelligence and Computing, Tianjin University (TJU), China. He has co-authored 1 Springer Book, and published over 10 scientific papers in international journals and conference proceedings, such as IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Mobile Computing (TMC), IEEE Internet of Things Journal (IoTJ), IEEE Network, IEEE Wireless Communications, IEEE ICC, SMC, CSCWD, and WASA. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interests include Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
+Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT), Dalian, China, in 2018 and 2021, and the Ph.D. degree from the College of Intelligence and Computing, Tianjin University (TJU), Tianjin, China, in 2025. He was an Exchange Student with the National Institute of Informatics (NII), Tokyo, Japan, from 2023 to 2024, where CSC fully supported the scholarship. He is currently an Associate Professor with the School of Computer Science and Engineering, Northeastern University, Shenyang, China. He has co-authored 1 Springer Book, and published over 10 scientific papers in international journals and conference proceedings, such as IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN), IEEE Internet of Things Journal, IEEE Network, IEEE Wireless Communications, ICC, and CSCWD. He has served as the organizing committee member and the program committee (PC) member for three important international conferences and a reviewer for eight prestigious journals, including IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN), and IEEE Transactions on Network Science and Engineering (TNSE). His research interests include Internet of Things, complex network, topology robustness optimization, and quantum computing. He has won several awards, such as the National Scholarship, and the Outstanding Graduate in Liaoning Province.
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China.
-- *2023.11 - 2024.11*, Ph.D candidate, National Institute of Informatics, Tokyo, Japan.
-- *2018.09 - 2021.06*, Master, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
-- *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
+- *2021.09 - 2025.03*, Ph.D., College of Intelligence and Computing, Tianjin University, Tianjin, China.
+- *2023.11 - 2024.11*, Ph.D. candidate, National Institute of Informatics, Tokyo, Japan.
+- *2018.09 - 2021.06*, M.E., School of Software, Dalian University of Technology, Dalian, Liaoning Province, China.
+- *2014.09 - 2018.06*, B.E., School of Software, Dalian University of Technology, Dalian, Liaoning Province, China.
 
 # 📝 Publications 
 - Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT, **Songwei Zhang**, Xiaobo Zhou, Tie Qiu, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2024 (CCF-A, SCI-I)**
@@ -51,11 +51,10 @@ Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. deg
 - *2017.01 - 2020.12*, National Natural Science Foundation of China (61672131): Research on Robustness and Modeling for Large-Scale Heterogeneous Sensor Networks in Interent of Things, Participant.
 
 # 💬 Patents
+- A robust networking method for scale-free Internet of Things based on quantum multiverse co-evolution, **Authorized**
+- A robust topology generation method for the Internet of Things based on neuroevolution, **Authorized**
 - A Multi-objective Topology Optimization method with Quantum Behavior for Heterogeneous IoT, **Pending**
-- A topology optimization method for Internet of Things with layered-cooperation mechanism, **Pending**
-- A robust networking method for scale-free Internet of Things based on quantum multiverse co-evolution, **Pending**
 - Robustness optimization model for Internet of Things based on broad learning, **Pending**
-- A robust topology generation method for the Internet of Things based on neuroevolution, **Pending**
 
 # 🎖 Honors and Awards
 - *2023*, Outstanding Contribution Award received from 2023 IEEE ComSoc School Series Tianjin Event.
