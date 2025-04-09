@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Songwei Zhang (张松伟)"
-description              : "A PhD student in Tianjin University. Focusing on IoT, Topology Robustness, and Quantum Computing."
+description              : "An Associate Professor in Northeastern University. Focusing on IoT, Topology Robustness, and Quantum Computing."
 repository               : "zhangsongwei97/zhangsongwei97.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Songwei Zhang (张松伟)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tianjin University"
-  location         : "Tianjin, China"
+  bio              : "Northeastern University"
+  location         : "Shenyang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eQM4KI8AAAAJ"
