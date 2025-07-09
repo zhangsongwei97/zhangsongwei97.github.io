@@ -29,7 +29,7 @@ Songwei Zhang (S'21-M'25)(**zhangsongwei@ieee.org**) received the B.E. and M.E. 
 - *2025.04 - Present*, Associate Professor, Ph.D. Supervisor, School of Computer Science and Engineering, Northeastern University, Shenyang, China.
 
 # 📝 Publications 
--[A Quantum-Driven Efficient Learning Model for Enhancing Robustness of IoT Topology](https://ieeexplore.ieee.org/document/11072527), **Songwei Zhang**, Tie Qiu, Xiaobo Zhou, Yusheng Ji, **IEEE Transactions on Mobile Computing (TMC) 2025 (CCF-A, SCI-I)**
+- [A Quantum-Driven Efficient Learning Model for Enhancing Robustness of IoT Topology](https://ieeexplore.ieee.org/document/11072527), **Songwei Zhang**, Tie Qiu, Xiaobo Zhou, Yusheng Ji, **IEEE Transactions on Mobile Computing (TMC) 2025 (CCF-A, SCI-I)**
 - [Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT](https://ieeexplore.ieee.org/abstract/document/10648662/), **Songwei Zhang**, Xiaobo Zhou, Tie Qiu, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2024 (CCF-A, SCI-I)**
 - [A Distributed Co-Evolutionary Optimization Method With Motif for Large-Scale IoT Robustness](https://ieeexplore.ieee.org/abstract/document/10557791), Ning Chen, Tie Qiu, Xiaobo Zhou, **Songwei Zhang**, Weisheng Si, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2024 (CCF-A, SCI-I)**
 - [A Probability-Based Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/10580081), Jingchen Sun, Ning Chen, **Songwei Zhang**, Zhaolong Ning, Tie Qiu, **CSCWD 2024 (CCF-C)**
